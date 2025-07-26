@@ -35,7 +35,7 @@ wine-quality-prediction/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/wine-quality-prediction.git
+   git clone https://github.com/Hamidreza-ahd/wine-quality-prediction.git
    cd wine-quality-prediction
    ```
 2. Install dependencies:
