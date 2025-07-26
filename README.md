@@ -65,8 +65,11 @@ All code resides in the Jupyter notebook. To run analyses and train models:
 
 ## 🔍 Results
 
-* **Mean Absolute Error (MAE)**: 0.x
-* **R² Score**: 0.y
+| Model              | MAE   | R² Score |
+|--------------------|-------|----------|
+| Linear Regression  | 0.521 | 0.354    |
+| Decision Tree      | 0.551 | 0.290    |
+| Random Forest      | 0.510 | 0.388    |
 
 Interactive plots and detailed analysis are available in the notebook.
 
