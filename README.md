@@ -1,7 +1,7 @@
 # Wine Quality Prediction
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/wine-quality-prediction/ci.yml)](https://github.com/your-username/wine-quality-prediction/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Hamidreza-ahd/wine-quality-prediction/ci.yml)](https://github.com/your-username/wine-quality-prediction/actions)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 🚀 Project Overview
